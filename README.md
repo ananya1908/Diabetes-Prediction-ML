@@ -193,9 +193,3 @@ jupyter notebook Diabetes_Notebook.ipynb
 ```
 
 ---
-
-# Author
-
-**Ananya Sharma**  
-Master’s in Information Management – Data Science  
-University of Washington
